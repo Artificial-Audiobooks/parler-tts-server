@@ -1,0 +1,3 @@
+[submodule "parler-tts"]
+	path = parler-tts
+	url = git@github.com:huggingface/parler-tts.git
